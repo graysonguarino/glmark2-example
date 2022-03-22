@@ -89,3 +89,4 @@ If you have any questions, [post in the Snapcraft forum](https://forum.snapcraft
 | :---: |
 | [Upstream Name](https://github.com/upstreamname) |
 -->
+# glmark2-example
